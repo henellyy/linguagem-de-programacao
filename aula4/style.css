@@ -1,7 +1,26 @@
+body{
+	font-family: arial;
+	font-size: 12pt;	
+}
 h1{
 	font-family: arial;
 	font-size: 60pt;
-	color: rebeccapurple;
-	background-color: yellow;
+	color: white;
+	background-color: mediumpurple;
 	padding: 50px;
+	text-align: center;
+}
+p.destaque {
+	color: mediumpurple;
+	font-size: 30pt;
+	background-color: lightgray;
+	font-family: arial;
+	padding: 15pt;
+	width: 300pt; 
+	text-align: right;
+}
+p.pequeno {
+	font-size: 12pt;
+	text-align: left;
+	padding: 15pt;
 }
