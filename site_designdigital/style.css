@@ -111,3 +111,33 @@ h1{
 	font-size: 18px;
 	color: #FFF;
 }
+
+article{
+	width: 264px;
+	float: left;
+	margin-right: 24px;
+}
+
+article:last-child{
+	margin-right: 0;
+}
+
+article p{
+	text-align: justify;
+	font-size: 16px;
+}
+
+h2{
+	font-size: 24px;
+}
+
+footer{
+	width: 100%;
+	margin-top: 24px;
+	margin-bottom: 24px;
+}
+
+.footer{
+	font-size: 10px;
+	margin-bottom: 0;
+}
